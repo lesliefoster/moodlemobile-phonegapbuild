@@ -16,7 +16,7 @@
  */
 
 // Bar content.
-$bar-content-bg: #f70 !default;
+$bar-content-bg: #333399 !default;
 $bar-content-border: transparent !default;
 $bar-content-text: #fff !default;
 
@@ -66,7 +66,7 @@ $mm-rte-min-height: 80px !default;
  * App Branding
  */
 .mm-bglogo {
-  background-color: white; /* Change this to add a bg image or change color */
+  background-color: #dedede; /* Change this to add a bg image or change color */
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
