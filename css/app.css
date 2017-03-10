@@ -5353,7 +5353,8 @@ a.item-content {
     border-bottom-left-radius: 2px; }
 
 .card .item:last-child, .list-inset .item:last-child {
-  margin-bottom: -1px; }
+  margin-bottom: -1px;
+  display: none  }
 
 .card .item, .list-inset .item, .padding > .list .item, .padding-horizontal > .list .item {
   margin-right: 0;
